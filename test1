@@ -1,1 +1,1 @@
-{\"y_axis\":{\"format\":\"decimal\"},\"series\":[{\"name\":\"Date and Time\",\"data\":[9,1,1]}]}
+{"y_axis":{"format":"decimal"},"x_axis":{"labels":["1/30/2020 6:00:00 AM","1/30/2020 7:00:00 AM","1/30/2020 8:00:00 AM"]},"series":[{"name":"Date and Time","data":[9,1,1]}]}
